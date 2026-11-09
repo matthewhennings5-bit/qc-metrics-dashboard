@@ -24,3 +24,17 @@ The purpose of this project is to demonstrate the use of data analytics in labor
 - Automated Reporting
 - Instrument Reliability Tracking
 - Capacity Planning
+## Sample Metrics
+
+| Metric | Value |
+|----------|---------|
+| Total Tests | 7850 |
+| Total Failures | 64 |
+| Failure Rate | 0.82% |
+| Downtime Hours | 7 |
+
+## Instruments Evaluated
+
+- Sysmex XT
+- ADVIA 2120
+- Horiba ES60
